@@ -3,6 +3,9 @@ Composites/
 Segments/
 hlBehaviors/
 llBehaviors/
+llbehPlot/
+hlbehPlot/
+snapData3/
 
 # Figures
 *.png
